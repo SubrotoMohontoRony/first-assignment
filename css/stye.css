@@ -1,0 +1,40 @@
+body{
+	background: #f8f9f9 ;
+	margin:0;
+}
+
+div{
+	width:80%;
+	margin:auto;
+	
+}
+
+h2{
+	font-size:30px;
+	text-align:center;
+	
+}
+
+table{
+	border-collapse:collapse;
+	width:100%;
+	color:  #283747;
+	margin-bottom:10px;
+	
+}
+
+tr{
+  text-align:center;  
+	
+}
+
+th{
+	font-size:23px;
+	background: #85929e ;
+}
+
+td{
+	color: #1a5276 ;
+	font-size:20px;
+	
+}
